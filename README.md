@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jaelan Cruz
+# bello, i'm jaelan :]
 
-[![](https://img.shields.io/badge/-@jaelan-cruz-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jaelan-cruz)
+[![](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaelan-cruz)
 [![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
