@@ -8,7 +8,7 @@ Based in **Toronto**, I am a **Computer Science student at York University** wit
 
 ---
 
-## 🚀 Technical Skills
+## Current Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -52,7 +52,7 @@ Based in **Toronto**, I am a **Computer Science student at York University** wit
 
 ---
 
-## 📊 GitHub Stats
+## Stats for Github
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mxta-o&theme=react&hide_border=true)
 <!--
