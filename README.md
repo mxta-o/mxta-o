@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
-Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Frontend UI/UX Engineer at Circe, designing React and TypeScript components while expanding into backend development with Python. I love building scalable web applications and creating intuitive user experiences.
+Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Frontend UI/UX Engineer at Circe, designing React and TypeScript components while expanding into backend development with Python and AWS infrastructure. I love building stuff :p
 
 ---
 
