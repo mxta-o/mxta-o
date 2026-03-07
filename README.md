@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
-Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Frontend UI/UX Engineer at Circe, designing React and TypeScript components while expanding into backend development with Python and AWS infrastructure. I love building stuff :p
+Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python, FastAPI, and PostgreSQL. I love building stuff :p
 
 ---
 
@@ -14,15 +14,15 @@ Based in **Toronto**, I am a **Computer Science student at York University** wit
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -33,8 +33,7 @@ Based in **Toronto**, I am a **Computer Science student at York University** wit
 ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge)
 
 ### Databases
-![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) *(learning)*
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
