@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
-Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python, FastAPI, and PostgreSQL. I love building stuff :p
+Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python, FastAPI, and PostgreSQL. Hoping to expand that scope into more cloud development with AWS.
+
+i love building stuff ˙𐃷˙
 
 ---
 
