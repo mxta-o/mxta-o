@@ -7,7 +7,6 @@
 Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python, FastAPI, and PostgreSQL. Hoping to expand that scope into more cloud development with AWS.
 
 i love building stuff ˙𐃷˙
-I LOST MY GITHUB STREAK :(
 
 ---
 
