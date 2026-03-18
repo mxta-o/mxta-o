@@ -67,5 +67,6 @@ i love building stuff ˙𐃷˙
 ---
 
 > “feel free to get in touch with me if you have any questions or need potential partners. i'm always down for something new (๑ᵔ⤙ᵔ๑)”
+> alalalala
 
 ---
