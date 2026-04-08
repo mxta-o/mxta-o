@@ -63,8 +63,9 @@ i love building stuff ˙𐃷˙
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### AI & Automation
-![GPT-4o](https://img.shields.io/badge/-GPT--4o-6E4C13?style=for-the-badge)
-![Claude Sonnet 3.5](https://img.shields.io/badge/-Claude%20Sonnet%203.5-6E4C13?style=for-the-badge)
+![GPT-5 mini](https://img.shields.io/badge/-GPT--5%20mini-47413c?style=for-the-badge)
+![GPT-5.3 Codex](https://img.shields.io/badge/-GPT--5.3%20Codex-47413c?style=for-the-badge)
+![Claude Sonnet 3.5](https://img.shields.io/badge/-Claude%20Sonnet%203.5-47413c?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/-Copilot-1B1F23?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
