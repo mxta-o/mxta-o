@@ -1,6 +1,8 @@
 # bello! i'm jaelan (.◜ᴗ◝.)
 
 [![](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaelan-cruz)
+[![](https://img.shields.io/badge/-@jxelxn.sh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jxelxn.sh/)
+[![](https://img.shields.io/badge/-@.ehlan-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/.ehlan)
 [![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
@@ -16,6 +18,7 @@ i love building stuff ˙𐃷˙
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
