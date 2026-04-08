@@ -62,6 +62,11 @@ i love building stuff ˙𐃷˙
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-4B8BBE?style=for-the-badge&logo=pytest&logoColor=white)
+
 ### AI & Automation
 ![GPT-5 mini](https://img.shields.io/badge/-GPT--5%20mini-47413c?style=for-the-badge)
 ![GPT-5.3 Codex](https://img.shields.io/badge/-GPT--5.3%20Codex-47413c?style=for-the-badge)
