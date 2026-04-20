@@ -81,10 +81,8 @@ i love building stuff ˙𐃷˙
 ## Stats for Github
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mxta-o&theme=react&hide_border=true)
-<!--
-![Jaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxta-o&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxta-o&theme=react&hide_border=true&layout=compact&langs_count=8)
--->
+![Jar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxta-o&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+
 
 ---
 
