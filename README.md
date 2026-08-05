@@ -1,4 +1,4 @@
-# bello! i'm jaelan (.◜ᴗ◝.)
+# helloooo, i'm jaelan (.◜ᴗ◝.)
 
 [![](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaelan-cruz)
 [![](https://img.shields.io/badge/-@jxelxn.sh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jxelxn.sh/)
