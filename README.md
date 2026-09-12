@@ -3,13 +3,11 @@
 [![](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaelan-cruz)
 [![](https://img.shields.io/badge/-@jxelxn.sh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jxelxn.sh/)
 [![](https://img.shields.io/badge/-@.ehlan-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/.ehlan)
-[![](https://img.shields.io/badge/-@mxta--o-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/mxta-o)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
-Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python, FastAPI, and PostgreSQL. Hoping to expand that scope into more cloud development with AWS.
+Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python FastAPI and PostgreSQL. Hoping to expand that scope towards cloud dev, but I'm also currently exploring graphics eng with C++ and backend work with Java and JS (Node.js) and see what I enjoy doing more lol
 
 i love building stuff ˙𐃷˙
-> also i got my streak back yipie
 
 ---
 
@@ -71,9 +69,7 @@ i love building stuff ˙𐃷˙
 ![pytest](https://img.shields.io/badge/-pytest-4B8BBE?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### AI & Automation
-![GPT-5 mini](https://img.shields.io/badge/-GPT--5%20mini-47413c?style=for-the-badge)
-![GPT-5.3 Codex](https://img.shields.io/badge/-GPT--5.3%20Codex-47413c?style=for-the-badge)
-![Claude Sonnet 3.5](https://img.shields.io/badge/-Claude%20Sonnet%203.5-47413c?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code%20-c15f3c?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/-Copilot-1B1F23?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
@@ -81,12 +77,10 @@ i love building stuff ˙𐃷˙
 ## Stats for Github
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mxta-o&theme=react&hide_border=true)
-![Jar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxta-o&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ---
 
 > “feel free to get in touch with me if you have any questions or need potential partners. i'm always down for something new (๑ᵔ⤙ᵔ๑)”
-> alalalala
 
 ---
