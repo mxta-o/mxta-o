@@ -9,7 +9,7 @@ Based in **Toronto**, I am a **Computer Science student at York University** wit
 
 i love building stuff ˙𐃷˙
 
-> this is here to keep the streak cause i forgot to push
+> streaks all dayyyyyy
 
 ---
 
