@@ -40,8 +40,6 @@ i love building stuff ˙𐃷˙
 ![WebGL](https://img.shields.io/badge/-WebGL-162236?style=for-the-badge)
 ![GSAP](https://img.shields.io/badge/-GSAP-162236?style=for-the-badge)
 ![Formik](https://img.shields.io/badge/-Formik-FF4154?style=for-the-badge)
-![Yup](https://img.shields.io/badge/-Yup-4E9F3D?style=for-the-badge)
-![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-4EA94B?style=for-the-badge)
 
 ### Databases
