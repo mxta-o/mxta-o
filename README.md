@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@.ehlan-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/.ehlan)
 [![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 
-Based in **Toronto**, I am a **Computer Science student at York University** with hands-on experience in full-stack web development. Currently, I work as a Full-Stack Engineer at Circe, building React and TypeScript frontends alongside RESTful APIs with Python FastAPI and PostgreSQL. Hoping to expand that scope towards cloud dev, but I'm also currently exploring graphics eng with C++ and backend work with Java and JS (Node.js) and see what I enjoy doing more lol
+Based in **Toronto**, I am a **Computer Science student @YorkU** with hands-on experience in full-stack web dev. I'm hoping to expand that scope towards cloud eng, but I'm also currently exploring graphics eng with C++ and backend work with Java and JS (Node.js) and see what I enjoy doing more lol
 
 i love building stuff ˙𐃷˙
 
@@ -25,7 +25,6 @@ i love building stuff ˙𐃷˙
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -56,23 +55,10 @@ i love building stuff ˙𐃷˙
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/-AWS%20Cognito-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-6E9DC5?style=for-the-badge&logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-4B8BBE?style=for-the-badge&logo=pytest&logoColor=white)
-
-### AI & Automation
-![Claude Code](https://img.shields.io/badge/-Claude%20Code%20-c15f3c?style=for-the-badge)
-![Copilot](https://img.shields.io/badge/-Copilot-1B1F23?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
