@@ -62,7 +62,8 @@ Based in **Toronto**, I am a **Computer Science student @YorkU** with hands-on e
 
 ## Stats for Github
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mxta-o&theme=react&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mxta-o&theme=blue-navy&border_radius=0.3&timezone=EST)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mxta-o&custom_title=Jar%27s%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=mxta-o&custom_title=Jar%27s%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy)
 
 
 ---
