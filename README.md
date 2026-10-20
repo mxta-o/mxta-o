@@ -8,7 +8,6 @@
 
 Based in **Toronto**, I am a **Computer Science student @YorkU** with hands-on experience in full-stack web dev. I'm hoping to expand my expertise in domains towards cloud eng, but I'm also currently exploring graphics eng with C++ and backend work with Java and JS (Node.js) and see what I enjoy doing more lol ˙𐃷˙
 
----
 
 ## Current Tech Stack
 
