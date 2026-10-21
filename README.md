@@ -56,6 +56,6 @@ Based in **Toronto**, I am a **Computer Science student @YorkU** with hands-on e
 [![GitHub Streak](https://streak-stats.demolab.com?user=mxta-o&theme=black-ice&hide_border=true&border_radius=)](https://git.io/streak-stats)
 ---
 
-> “feel free to get in touch with me if you have any questions or need potential partners. i'm always down for something new (๑ᵔ⤙ᵔ๑)”
+> “feel free to get in touch with me if you have any questions or wanna be friends (๑ᵔ⤙ᵔ๑)”
 
 ---
