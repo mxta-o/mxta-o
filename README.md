@@ -1,9 +1,4 @@
 # helloooo, i'm jaelan (.◜ᴗ◝.)
-
-[![](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaelan-cruz)
-[![](https://img.shields.io/badge/-@jxelxn.sh-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jxelxn.sh/)
-[![](https://img.shields.io/badge/-@.ehlan-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/.ehlan)
-[![](https://img.shields.io/badge/-Portfolio-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://mxta-o.github.io)
 ![](https://komarev.com/ghpvc/?username=mxta-o)
 
 Based in **Toronto**, I am a **Computer Science student @YorkU** with hands-on experience in full-stack web dev. I'm hoping to expand my expertise in domains towards cloud eng, but I'm also currently exploring graphics eng with C++ and backend work with Java and JS (Node.js) and see what I enjoy doing more lol ˙𐃷˙
