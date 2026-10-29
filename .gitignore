@@ -1,0 +1,4 @@
+.cache/
+__pycache__/
+# OMOCATs font used locally by scripts/lettering.py
+assets/fonts/
